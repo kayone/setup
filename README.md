@@ -151,7 +151,7 @@ The above step copies the modified config file into the folder where you should 
 
 ##Test Your Mingw Install
 
-Open up a git bash prompt and type the following commands:
+Open up a MingW prompt and type the following commands:
 
 1. ruby -v [enter]
 You should see a ruby version, if you don't see anything, you will have to repeat the Configuring MingW Paths section above, and make corrections as necessary.
@@ -161,7 +161,7 @@ You should see a git version, if you don't see anything, you will have to repeat
 
 ##Install IIS Express
 
-Install iis_express following these steps:
+Install iis_express following these steps (make sure it is IIS Express 7.5 and not a higher version):
   1. Download from [here](http://www.microsoft.com/en-us/download/confirmation.aspx?id=1038)
   2. Run the regular installer. If you already have IIS Express - skip this step
   3. Navigate to you IIS Express install directory and copy the entire folder
