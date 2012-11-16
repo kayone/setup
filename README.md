@@ -118,9 +118,9 @@ Open up a git bash prompt and type in the following commands:
 
     git clone git@github.com:jp/app.git app [enter]
 
-4. Once you have completed steps 3 and 4 your course folder should look as follows:
+2. Once you have completed the cloning the repositories your course folder should look as follows:
 
-![checked out directory](http://github.com/20121022aprimo/setup/raw/master/images/checked_out_directory.png)
+![checked out directory](http://github.com/iqmetrix2012/setup/raw/master/images/checked_out_directory.png)
 
 ##Install Mingw
 
